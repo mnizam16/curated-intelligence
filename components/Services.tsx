@@ -36,18 +36,18 @@ const Services: React.FC = () => {
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-7xl mx-auto">
                     <ServiceCard
                         icon={<CrownIcon className="w-8 h-8 text-sky-400" />}
-                        title="Aesthetic Ranking & RLHF"
-                        description="We teach your model what 'good' looks like. Through meticulous human ranking of generated outputs, we create the critical feedback data (RLHF) that elevates your model's taste, moving it from random results to consistently beautiful, compelling, and brand-aligned creations."
+                        title="Messy Data Digitization"
+                        description="Stop typing manually. We convert PDF invoices, handwritten receipts, and scanned leases into clean Excel or QuickBooks files. We verify every line item to ensure zero errors."
                     />
                     <ServiceCard
                         icon={<PaintBrushIcon className="w-8 h-8 text-sky-400" />}
-                        title="Style & Concept Fine-Tuning"
-                        description="Inject new skills and aesthetics directly into your model. Whether you need to master the subtle texture of an oil painting, or a novel artistic style, we craft detailed, expertly-captioned datasets that serve as your model's private art school."
+                        title="Content Repurposing"
+                        description="Turn one video into a week of content. We take your long-form videos or podcasts and convert them into SEO blogs, Twitter threads, and LinkedIn posts that sound exactly like you."
                     />
                     <ServiceCard
                         icon={<BoundingBoxIcon className="w-8 h-8 text-sky-400" />}
-                        title="Core Object & Semantic Labeling"
-                        description="The foundation of reliability. For features like in-painting, and composition control to work flawlessly, the model must first understand the world. We provide painstakingly accurate object labeling, ensuring your model's core knowledge is pristine."
+                        title="Deep Research & Enrichment"
+                        description="We enrich your lead lists and research prospects by analyzing their websites and news. We provide you with verified, personalized data that your sales team can actually use."
                     />
                 </div>
             </div>

@@ -8,7 +8,7 @@ const FounderNote: React.FC = () => {
                     <div className="text-center md:text-left relative">
                          <span className="absolute -top-4 -left-4 text-8xl font-black text-slate-700/50 opacity-50">“</span>
                         <p className="relative text-xl lg:text-2xl text-slate-300 italic mb-6 leading-relaxed">
-                            "I've always been fascinated by the intersection of human creativity and machine intelligence. I started Curated Intelligence because I saw that the most significant breakthroughs weren't just about bigger models, but smarter data. Our mission is simple: to provide that crucial layer of human taste and understanding that helps build truly remarkable AI."
+                            "Businesses are drowning in administrative work that software can't quite handle and humans hate doing. I started Curated Intelligence to solve this problem. We use the most powerful AI models to do the grunt work, and humans to ensure it's correct. We clear your backlog so you can get back to business."
                         </p>
                         <p className="text-sky-400 font-bold text-lg">Founder, Curated Intelligence</p>
                     </div>
